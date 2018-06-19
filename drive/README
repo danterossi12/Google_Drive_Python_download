@@ -1,0 +1,17 @@
+Overview: Make requests to Google Sheets API v3 & export/download data as csv files
+
+Author: Dante Rossi
+Date: 6-19-2018
+
+
+This file is intended for those looking to download files from google drive using Google Drive API v3. This can be implemented into a Web application
+or just for the simple purpose of downloading a file from a local computer. 
+
+
+For more information and help on implmenting this code see the links below:
+
+https://developers.google.com/sheets/api/quickstart/python for questions and examples
+https://support.google.com/googleapi/answer/6158849     setting up OAuth 2.0 
+https://developers.google.com/api-client-library/python/auth/web-app       SEE THIS
+
+
